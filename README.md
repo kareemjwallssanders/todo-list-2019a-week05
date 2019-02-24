@@ -15,8 +15,8 @@
   - Anything specific on which you want feedback!
   
   
-I completed the challenge: 3
-I feel good about my code: 3
+I completed the challenge: 4
+I feel good about my code: 4
 
 As the joureny gets better towards undering functions, the work put into this code will be cleaned.
   
