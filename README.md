@@ -13,6 +13,12 @@
   - (1 to 5 no 3) I completed the challenge
   - (1 to 5 no 3) I feel good about my code
   - Anything specific on which you want feedback!
+  
+I completed the challenge: 4
+I feel good about my code: 4
+I'm not sure if my constructors are setup cleanly...
+  
+  
 
 Example:
 ```
