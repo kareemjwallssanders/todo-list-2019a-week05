@@ -14,6 +14,22 @@
   - 4 I feel good about my code
   - Anything specific on which you want feedback!
 
+  
+  
+I completed the challenge: 4
+I feel good about my code: 4
+
+As the joureny gets better towards undering functions, the work put into this code will be cleaned.
+  
+  
+
+Example:
+```
+I completed the challenge: 5
+I feel good about my code: 4
+I'm not sure if my constructors are setup cleanly...
+```
+
  # My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
